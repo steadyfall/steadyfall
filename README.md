@@ -6,7 +6,7 @@
 
 - I am a highly motivated student in Mathematics and Computer Science, that wants to work in areas that utilize the potential of both fields combined, irrespective of its correlation with respective fields.
 - I’m currently working on [Who Wants to be a Millionaire Clone](https://github.com/steadyfall/wwbm-webapp).
-- I’m currently learning **React**, to integrate it with the project I'm working with.
+- I’m currently learning **React**, to integrate it with the project I'm working on.
 - Reach me @ LinkedIn - [<img src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png?raw=true" width="15">](https://linkedin.com/in/himank-dave)
 
 
