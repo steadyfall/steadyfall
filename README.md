@@ -7,7 +7,6 @@
 - I am a Computational Mathematics major at the University of Waterloo.
 - I desire to work in areas that utilize the potential of both fields combined, irrespective of its correlation with respective fields.
 - I’m currently working on [Who Wants to be a Millionaire Clone](https://github.com/steadyfall/wwbm-webapp).
-- Reach me 
 
 
 ## Toolbox
