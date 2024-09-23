@@ -5,14 +5,14 @@
 </p>
 
 - I am a Computational Mathematics major at the University of Waterloo.
-- I desire to work in areas that utilize the potential of both fields combined, irrespective of its correlation with respective fields.
-- I’m currently working on [Who Wants to be a Millionaire Clone](https://github.com/steadyfall/wwbm-webapp).
+- I am eager to work in areas that leverage the combined potential of machine learning and software development, regardless of traditional boundaries.
+- I’m currently working on my [personal website](https://github.com/steadyfall/steadyfall.github.io).
 
 
 ## Toolbox
 Languages: `Python` `C` `C++` `SQL` `HTML5` `CSS3` `JavaScript`
 
-Frameworks: `Django` `Flask` `Firebase` `Postgres` `MySQL` `SQLite`
+Frameworks: `Django` `Flask` `Firebase` `Postgres` `MySQL` `SQLite` `React` `Node`
 
 Libraries: `NumPy` `Plotly` `Matplotlib`
 
