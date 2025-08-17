@@ -6,7 +6,7 @@
 
 Check this [personal website](https://steadyfall.github.io) out for more info!
 
-- **Based in:** Waterloo (hit me up to talk [goose](https://uwaterloo.ca/library/sites/ca.library/files/uploads/images/img_0236_0.jpg) 🙏)
+- **Based in:** Waterloo (hit me up to talk [goose](https://raw.githubusercontent.com/steadyfall/steadyfall/refs/heads/main/goose-uw.jpg) 🙏)
 - 3rd year Computational Mathematics major at the [University of Waterloo](https://uwaterloo.ca/).
 - Currently working on implementing an [in-memory key-value store](https://github.com/steadyfall/deris) from scratch in Go.
 - Love working on unexplored/untouched/complex things & making things from scratch to learn them!
